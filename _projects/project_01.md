@@ -3,7 +3,7 @@ title: 'Combine Temporal Convolution and Self-attention'
 collection: projects
 excerpt: 'We proposed an effective model to combine self-attention and temporal convolution for action segmen
 tation task, and achieved state of the art results on three public benchmarks.'
-during: 2020.07.01
+date: 2020.07.01
 layout: single
 permalink: /projects/combine_temporal_convolution_and_self_attention
 ---

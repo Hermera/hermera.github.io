@@ -2,7 +2,7 @@
 title: "Semi-supervised Method of Landmark Detection of hand joints"
 collection: projects
 excerpt: "We implemented a semi-supervised method for landmark detection, and apply the method to a new task, landmark detection of standard X-ray views of hand."
-during: 2020.09.01
+date: 2020.09.01
 layout: single
 permalink: /projects/semi-supervised-method-of-landmark-detection-of-hand-joints
 ---
