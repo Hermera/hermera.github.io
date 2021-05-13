@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hermera Wen"
+title                    : "Hongyu Wen"
 title_separator          : "-"
-name                     : &name "Hermera"
+name                     : &name "Hongyu"
 description              : &description "Third-year Undergraduate Student"
 url                      : https://hermera.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hermera"
+  name             : "Hongyu"
   avatar           : "portrait.jpg"
-  bio              : "Enlighten me."
+  bio              : "The journey itself... is home."
   location         : "Peking University, Beijing"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
