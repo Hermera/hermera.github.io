@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "ASFormer: Transformer for Action Segmentation"
+date:   2020-07-06 3:24:59 +00:00
+image: /images/asformer.png
+categories: research    
+authors: "Fangqiu Yi, <b>Hongyu Wen</b>, Tingting Jiang"
+paper: https://arxiv.org/abs/2110.08568
+code: https://github.com/ChinaYi/ASFormer
+venue: BMVC 2021
+---
