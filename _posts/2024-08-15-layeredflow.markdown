@@ -7,4 +7,6 @@ categories: research
 authors: "<b>Hongyu Wen</b>, Erich Liang, Jia Deng"
 website: https://layeredflow.cs.princeton.edu
 venue: ECCV 2024
+paper: https://arxiv.org/abs/2409.05688
+code: https://github.com/princeton-vl/LayeredFlow
 ---
