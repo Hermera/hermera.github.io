@@ -7,5 +7,6 @@ categories: research
 authors: "<b>Hongyu Wen</b>, Yiming Zuo, Venkat Subramanian, Patrick Chen, Jia Deng"
 website: https://layereddepth.cs.princeton.edu
 paper: https://arxiv.org/abs/2503.11633
-venue: Preprint
+code: https://github.com/princeton-vl/LayeredDepth
+venue: ICCV 2025
 ---
