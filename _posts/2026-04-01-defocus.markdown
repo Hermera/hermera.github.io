@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Zero-Shot Depth from Defocus"
+date:   2025-06-01 3:24:59 +00:00
+image: /images/defocus.png
+categories: research    
+authors: "Yiming Zuo*, <b>Hongyu Wen*</b>, Venkat Subramanian*, Patrick Chen, Karhan Kayan, Mario Bijelic, Felix Heide, Jia Deng"
+website: https://zedd.cs.princeton.edu
+paper: https://arxiv.org/abs/2603.26658
+code: https://github.com/princeton-vl/FOSSA
+venue: Preprint
+---
