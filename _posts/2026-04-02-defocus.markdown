@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Zero-Shot Depth from Defocus"
-date:   2025-06-01 3:24:59 +00:00
+date:   2026-04-02 3:24:59 +00:00
 image: /images/defocus.png
 categories: research    
 authors: "Yiming Zuo*, <b>Hongyu Wen*</b>, Venkat Subramanian*, Patrick Chen, Karhan Kayan, Mario Bijelic, Felix Heide, Jia Deng"
