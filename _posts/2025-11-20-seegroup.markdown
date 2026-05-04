@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces\\ via Self-Determined Grouping"
+title:  "SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces via Self-Determined Grouping"
 date:   2025-11-20 3:24:59 +00:00
 image: /images/seegroup.png
 categories: research    
