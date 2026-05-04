@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "SeeGroup: Multi-Layer Depth Estimation of Transparent Surfaces\\ via Self-Determined Grouping"
+date:   2025-06-01 3:24:59 +00:00
+image: /images/seegroup.png
+categories: research    
+authors: "<b>Hongyu Wen*</b>, Jia Deng"
+venue: CVPR 2026
+---
