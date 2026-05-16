@@ -5,5 +5,5 @@ date:   2025-11-20 3:24:59 +00:00
 image: /images/seegroup.png
 categories: research    
 authors: "<b>Hongyu Wen</b>, Jia Deng"
-venue: CVPR 2026
+venue: CVPR 2026 (Oral)
 ---
