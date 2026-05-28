@@ -6,4 +6,6 @@ image: /images/seegroup.png
 categories: research    
 authors: "<b>Hongyu Wen</b>, Jia Deng"
 venue: CVPR 2026 (Oral)
+paper: https://arxiv.org/abs/2605.28735
+code: https://github.com/princeton-vl/SeeGroup
 ---
