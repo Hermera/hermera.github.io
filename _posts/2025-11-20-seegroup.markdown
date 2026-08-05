@@ -5,7 +5,7 @@ date:   2025-11-20 3:24:59 +00:00
 image: /images/seegroup.png
 categories: research    
 authors: "<b>Hongyu Wen</b>, Jia Deng"
-venue: CVPR 2026 (Oral, Best Paper Award Candidate)
+venue: "CVPR 2026 <p style="color: red;">(Oral, Best Paper Award Candidate)</p>"
 paper: https://arxiv.org/abs/2605.28735
 code: https://github.com/princeton-vl/SeeGroup
 ---
