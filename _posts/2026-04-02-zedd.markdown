@@ -8,5 +8,5 @@ authors: "Yiming Zuo*, <b>Hongyu Wen*</b>, Venkat Subramanian* (*equal contribut
 website: https://zedd.cs.princeton.edu
 paper: https://arxiv.org/abs/2603.26658
 code: https://github.com/princeton-vl/FOSSA
-venue: "ECCV 2026 <p style="color: red;">(Spotlight)</p>"
+venue: 'ECCV 2026 <span style="color: red;">(Spotlight)</span>'
 ---
